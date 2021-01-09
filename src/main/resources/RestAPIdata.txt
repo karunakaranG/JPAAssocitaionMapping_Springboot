@@ -1,0 +1,45 @@
+{
+    "user":[{
+        "name":"praveen",
+        "profession":"MS",
+        "age":37,
+        "products":[{
+            "pid":123,
+            "productName":"watch",
+            "qnty":3,
+            "price":1200
+            },{
+            "pid":345,
+            "productName":"phone",
+            "qnty":7,
+            "price":1400
+    }
+    ],
+    "contact":{
+    
+            "contactNumber":"3453464654",
+            "contactName":"Suresh"
+            }
+    },{
+        "name":"karuna",
+        "profession":"IT",
+        "age":27,
+        "products":[{
+            "pid":456,
+            "productName":"Glasses",
+            "qnty":9,
+            "price":500
+            },{
+            "pid":335,
+            "productName":"Iphone",
+            "qnty":2,
+            "price":5400
+    }
+    ],
+    "contact":{
+        
+            "contactNumber":"3453464654",
+            "contactName":"Suresh"
+            }
+    }]
+}
